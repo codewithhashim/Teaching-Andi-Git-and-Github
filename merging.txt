@@ -1,0 +1,2 @@
+taking changes from one branch and changes from the other branches
+and combining them all together.
